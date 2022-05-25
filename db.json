@@ -1,0 +1,40 @@
+{
+  "pictures": [
+    {
+      "artist": "Paulin Frustrobcvbcvb",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/352",
+      "id": 1
+    },
+    {
+      "artist": "Takeshi Nagano",
+      "year": "2017",
+      "photo": "https://picsum.photos/400/499",
+      "id": 6
+    },
+    {
+      "artist": "Neil Burnellxcvxcvxc",
+      "year": "2012",
+      "photo": "https://picsum.photos/400/443",
+      "id": 7
+    },
+    {
+      "artist": "From Scratch",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/376",
+      "id": 9
+    },
+    {
+      "artist": "toto",
+      "year": "1212",
+      "photo": "https://picsum.photos/400/454",
+      "id": 10
+    },
+    {
+      "artist": "cxcvgdfsghfdfhfhfg",
+      "year": "2020",
+      "photo": "https://picsum.photos/400/459",
+      "id": 11
+    }
+  ]
+}
